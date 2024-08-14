@@ -1,0 +1,8 @@
+com\example\Server\services\certificateServices.class
+com\example\Server\repository\certificateRepository.class
+com\example\Server\specification\certificateSpecification.class
+com\example\Server\repository\RevokedCertRepository.class
+com\example\Server\entity\certificate.class
+com\example\Server\ServerApplication.class
+com\example\Server\entity\RevokedCerts.class
+com\example\Server\controller\ServerController.class
